@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation" tests="1" errors="0" failures="0" skipped="0" time="6.575" timestamp="2023-02-22T18:29:19.401000">
+<testsuite name="Test" tests="1" errors="0" failures="0" skipped="0" time="6.551" timestamp="2023-02-22T18:29:19.417000">
+<testcase classname="Automation.Test" name="Google" time="6.283">
+</testcase>
+</testsuite>
+</testsuite>
